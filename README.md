@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <h1> Hello and Welcome 👋 I'm Fidele </h1>
 
-<img src="assets/github-header-image-1.png" alt="Banner that greets incoming guests">
-
 <h2> About Me </h2>
 
 <p>
@@ -77,5 +75,4 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/fidele-sorgho/" target="_blank" rel="noreferrer"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="![LinkedIn_logo_initials](https://github.com/extreme-top/extreme-top/assets/120171847/fcf098f9-3e80-41e7-8461-bcf21f52ac16)"></a>
-  <a href="mailto:" target="_blank" rel="noreferrer"><img alt="ProtonMail" title="ProtonMail" height="48" width="48" src="assets/protonmail.svg"></a>
 </p>
