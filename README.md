@@ -22,11 +22,14 @@ Here are some ideas to get you started:
 <h2> About Me </h2>
 
 <p>
-
+  I'm a dynamic Computer Science Student, currently in second year at the University Of Leeds (UK) pursuing a degeree in Computer Science. I have a deep interest in software development, and have been creating projects throughout my degree and also on a personal level too. 
 </p>
 
 <h2> Projects </h2>
-
+<h3> Almighty Scheduler </h3>
+<ul>
+  A complete solution for businesses to manage their employees. The application contains a rota-scheduler, whichi I have implemented by designing my own algorithm, as well as a comprehensive view for managers and employees, allowing them to interact each other and make personal changes. 
+</ul>
 
 
 <h2> Technologies & Languages I Use </h2>
