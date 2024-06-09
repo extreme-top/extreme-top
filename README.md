@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h2> About Me </h2>
 
 <p>
-  I'm a dynamic Computer Science Student, currently in second year at the University Of Leeds (UK) pursuing a degeree in Computer Science. I have a deep interest in software development, and have been creating projects throughout my degree and also on a personal level too. 
+  I'm a dynamic Computer Science Student, currently in second year at the University Of Leeds (UK) pursuing a degree in Computer Science. I have a deep interest in software development, and have been creating projects throughout my degree and also on a personal level. 
 </p>
 
 <h2> Projects </h2>
