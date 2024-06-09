@@ -32,7 +32,7 @@ A complete solution for businesses to manage their employees. The application co
 </ul>
 
 <h3> E-Commerce </h3>
-A website designed to allow its users to create and publish ads where they can sell items and buy them equally.
+<ul> A website designed to allow its users to create and publish ads where they can sell items and buy them equally. </ul>
 
 <h2> Technologies & Languages I Use </h2>
 
