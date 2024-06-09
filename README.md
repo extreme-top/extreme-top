@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <h1> Hello and Welcome 👋 I'm Fidele </h1>
 
+![github-header-image](https://github.com/extreme-top/extreme-top/assets/120171847/f1150d61-3cb5-44e2-8ce7-59afff23f23d)
+
 <h2> About Me </h2>
 
 <p>
@@ -69,7 +71,6 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-![github-header-image](https://github.com/extreme-top/extreme-top/assets/120171847/f1150d61-3cb5-44e2-8ce7-59afff23f23d)
 
 <h2> Where to Find Me </h2>
 
