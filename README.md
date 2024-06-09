@@ -28,9 +28,11 @@ Here are some ideas to get you started:
 <h2> Projects </h2>
 <h3> Almighty Scheduler </h3>
 <ul>
-  A complete solution for businesses to manage their employees. The application contains a rota-scheduler, whichi I have implemented by designing my own algorithm, as well as a comprehensive view for managers and employees, allowing them to interact each other and make personal changes. 
+A complete solution for businesses to manage their employees. The application contains a rota-scheduler, whichi I have implemented by designing my own algorithm, as well as a comprehensive view for managers and employees, allowing them to interact each other and make personal changes. 
 </ul>
 
+<h3> E-Commerce </h3>
+A website designed to allow its users to create and publish ads where they can sell items and buy them equally.
 
 <h2> Technologies & Languages I Use </h2>
 
